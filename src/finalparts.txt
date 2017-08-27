@@ -1,0 +1,90 @@
+Apfel	130	0
+Birne	112	115
+Gurke	244	0
+Stein	120	829
+Ziegelstein	556	0
+Braunkohlebrocken	200	0
+Braunkohlebrikett	450	0
+Kupfererz	150	179
+Kupferbarren	910	98
+Eisenerz	200	0
+Eisenbarren	1000	0
+Sandstein	200	75
+Moertel	1500	0
+Lachs	1550	0
+Rohoelabfall	250	60
+Plastikgranulat	1624	60
+Kohlebruch	325	20
+Diamant	3847	0
+Nitro-Gas	450	215
+Nitroglyzerin	2391	0
+Golderz	1200	44
+Goldbrikett	4811	0
+Oel	250	0
+Benzin	750	464
+Kerosin	3200	63
+Goldsack	99000	0
+Salzgurke	2343	0
+Bier	12781	91
+Frosch	286	0
+LSD	2765	0
+Cannabis	300	0
+Unverarbeitetes Heroin	1200	0
+Heroin	7036	0
+Edelheroin	7819	0
+Marihuana	2600	0
+Unverarbeitetes Kokain	1000	0
+Kokain	5300	0
+Edelkokain	5423	0
+Schildkroetenfleisch	12000	0
+Sportbier	13841	0
+Goldbarren	99000	0
+Zahnstocher	120	0
+Spitzhacke	1	113
+Benzinkanister	1	98
+Nagelband	1200	7
+Dietrich	1	1
+GPS Tracker	1	5
+Nitro	1	1
+Rubbellos	1000	8
+Redgull	200	195
+Hasenfleisch	35	101
+Gegrillte Sardine	55	247
+Gegrillter Kaiserfisch	150	323
+Gegrillte Makrele	200	188
+Gegrillter Thunfisch	750	129
+Frittierte Meeraesche	400	179
+Frittierter Katzenhai	500	59
+Taktischer Speck	35	156
+Pfirsich	55	66
+Wasserflasche	50	226
+Fischernetz	500	26
+Oelfoerderpumpe	500	14
+Bolzenschneider	1	0
+Entfernungsmesser	1500	0
+Werkzeugkasten	750	1
+Fernglas	150	0
+Gruenes Knicklicht	200	0
+Rotes Knicklicht	200	0
+Gelbes Knicklicht	200	0
+Blaues Knicklicht	200	0
+Erste-Hilfe-Kasten	250	0
+GPS	50	0
+Nachtsichtgeraet (braun)	2200	0
+Baumwolle	400	539
+gesponnene Baumwolle	1000	1624
+Baumwollballen	4500	4438
+Flachs	300	931
+Leinenstoff	800	1446
+Leinenstoffballen	3500	5886
+[selten] Glasstein	3500	195
+Brennglas	5000	30
+[selten] Polymere	3500	521
+[episch] Platine	5000	40
+[selten] Magnetit	2500	390
+[episch] Magnet	5000	22
+[selten] Seidenspinner	4500	588
+[episch] Seide	6000	54
+[selten] Faerbemittel	2500	791
+[episch] seltene Erde	5000	179
+[episch] Carbon	25000	3193
