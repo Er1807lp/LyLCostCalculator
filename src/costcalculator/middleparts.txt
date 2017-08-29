@@ -1,0 +1,247 @@
+Hunting Rucksack	4 x Baumwolle	4 x Flachs	---	---	---	---	1
+Outdoor Rucksack (schwarz)	4 x Baumwolle	4 x Flachs	---	---	---	---	1
+Outdoor Rucksack (Khaki)	4 x Baumwolle	4 x Flachs	---	---	---	---	1
+Angriffsrucksack (Khaki)	3 x Baumwolle	6 x Flachs	---	---	---	---	2
+Angriffsrucksack (gruen)	3 x Baumwolle	6 x Flachs	---	---	---	---	2
+Angriffsrucksack (Sage)	3 x Baumwolle	6 x Flachs	---	---	---	---	2
+Rucksack Bergen (schwarz)	7 x Baumwolle	6 x Flachs	---	---	---	---	3
+Rucksack Bergen (gruen)	7 x Baumwolle	6 x Flachs	---	---	---	---	3
+Rucksack Bergen (Sage)	7 x Baumwolle	6 x Flachs	---	---	---	---	3
+Feldrucksack (sachwarz)	6 x Baumwolle	1 x Leinenstoffballen	---	---	---	---	4
+Feldrucksack (Coyote)	6 x Baumwolle	1 x Leinenstoffballen	---	---	---	---	4
+Feldrucksack (Hex)	6 x Baumwolle	1 x Leinenstoffballen	---	---	---	---	4
+Seesack (Coyote)	2 x gesponnene Baumwolle	1 x Leinenstoffballen	---	---	---	---	5
+Seesack (MTP)	1 x gesponnene Baumwolle	1 x Leinenstoffballen	2 x LEINENFADEN	---	---	---	5
+Viper-Harn Leicht (schwarz)	1 x gesponnene Baumwolle	1 x Leinenstoffballen	2 x LEINENFADEN	---	---	---	5
+Viper-Harn (Sechsecke)	1 x gesponnene Baumwolle	1 x Leinenstoffballen	2 x LEINENFADEN	---	---	---	6
+Viper-Harn (Khaki)	1 x gesponnene Baumwolle	1 x Leinenstoffballen	2 x LEINENFADEN	---	---	---	6
+Carryall Rucksack (Khaki)	1 x Baumwollballen	1 x Leinenstoffballen	1 x SEIDENFADEN	---	---	---	6
+Carryall-Rucksack (MTP)	1 x Baumwollballen	1 x Leinenstoffballen	1 x SEIDENFADEN	---	---	---	6
+Carryall Rucksack (Hex)	1 x Baumwollballen	1 x Leinenstoffballen	1 x SEIDENFADEN	---	---	---	6
+Carryall-Rucksack (Olive)	1 x Baumwollballen	1 x Leinenstoffballen	1 x SEIDENFADEN	---	---	---	6
+Carryall-Rucksack (Urban)	1 x Baumwollballen	1 x Leinenstoffballen	1 x SEIDENFADEN	---	---	---	6
+Bergen-Rucksack (digital)	8 x Baumwollballen	20 x Leinenstoffballen	1 x [selten] Faerbemittel	7 x LEINENFADEN	5 x SEIDENFADEN	---	7
+Bergen-Rucksack (MTM)	8 x Baumwollballen	20 x Leinenstoffballen	1 x [selten] Faerbemittel	7 x LEINENFADEN	5 x SEIDENFADEN	---	7
+Bergen-Rucksack (tropisch)	8 x Baumwollballen	20 x Leinenstoffballen	1 x [selten] Faerbemittel	7 x LEINENFADEN	5 x SEIDENFADEN	---	7
+Bandana Maske (Sage)	3 x Baumwolle	2 x Flachs	---	---	---	---	1
+Bandana Maske (Surfer)	3 x Baumwolle	2 x Flachs	---	---	---	---	1
+Hut (Camo)	2 x Baumwolle	3 x Flachs	---	---	---	---	1
+Hut (grau)	2 x Baumwolle	3 x Flachs	---	---	---	---	1
+Cap (schwarz)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (CMMG)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (ION)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (gruen)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (oliv)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (rot)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Cap (blau)	3 x Baumwolle	5 x Flachs	---	---	---	---	2
+Booniehat (Dirty)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (Khaki)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (oliv)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (Sand)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (Khaki)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (MTP)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Booniehat (Headset)	1 x Baumwolle	1 x Leinenstoff	---	---	---	---	3
+Skater-Helm	1 x Baumwolle	2 x Flachs	1 x Plastikgranulat	---	---	---	3
+Beanie (scharz)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Beanie (Khaki)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Beanie (Sage)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Military Cap (MTP)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Military Cap (Hex)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Military Cap (Urban)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Militaer Cap (blau)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Militaermuetze (Gendarmerie)	3 x Baumwolle	1 x Leinenstoff	---	---	---	---	4
+Rennhelm (Vrana)	3 x Baumwolle	2 x Flachs	1 x Plastikgranulat	---	---	---	4
+Shemag Maske (oliv)	1 x gesponnene Baumwolle	20 x Leinenstoff	1 x [episch] Seide	---	---	---	5
+Shemag Maske (Tan)	1 x gesponnene Baumwolle	20 x Leinenstoff	1 x [episch] Seide	---	---	---	5
+Heli Crew Helm (CSAT)	8 x gesponnene Baumwolle	3 x Leinenstoff	10 x Eisenbarren	10 x Kupferbarren	---	---	5
+Leichter Kampfhelm (Tropen)	7 x Baumwollballen	10 x Leinenstoffballen	8 x Eisenbarren	20 x Kupferbarren	1 x [selten] Faerbemittel	23 x LEINENFADEN	6
+SF Helm	2 x Baumwollballen	4 x Leinenstoffballen	16 x Eisenbarren	16 x Kupferbarren	25 x Plastikgranulat	25 x LEINENFADEN	7
+Assassin helm (Hex)	1 x Baumwollballen	1 x Leinenstoffballen	5 x Eisenbarren	5 x Kupferbarren	1 x [episch] Carbon	1 x LEINENFADEN	7
+Buergerlicher Kleidung (blau)	5 x Flachs	1 x Baumwolle	---	---	---	---	1
+Buergerliche Kleidung (burgund)	5 x Flachs	1 x Baumwolle	---	---	---	---	1
+Buergerliche Kleidung (rot-weiss)	5 x Flachs	1 x Baumwolle	---	---	---	---	1
+Getragene Kleidung	6 x Flachs	---	---	---	---	---	1
+Arbeiter Coveralls	5 x Flachs	1 x Baumwolle	---	---	---	---	2
+Legere Kleidung (Marineblau)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Legere Kleidung( Blau)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Legere Kleidung(Gruen)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Sommerkleidung (Gelb)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Sommerkleidung (rot)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Sportkleidung (Orange)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Marshall Kleidung	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Banditen-Kleidung (Muskelshirt)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Jagd Kleidung	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+CTRG-Stadt-Uniform	4 x Leinenstoff	4 x Baumwolle	---	5 x LEINENFADEN	---	---	3
+Guerillia Outfit (Glatt, dunkel)	4 x Leinenstoff	4 x Baumwolle	---	5 x LEINENFADEN	---	---	3
+Paramilitaer-Kleidung (Jacke)	4 x Leinenstoff	4 x Baumwolle	---	5 x LEINENFADEN	---	---	3
+Guerilla Outfit (Glatt, Dark)	5 x Leinenstoff	9 x Baumwolle	---	2 x LEINENFADEN	---	---	3
+CTRG-Stadt-Uniform	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Gendarmerie-Uniform	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Rennanzug (schwarz)	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Rennanzug (blau)	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Rennanzug (orange)	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Rennanzug (vollblau)	4 x Leinenstoff	3 x gesponnene Baumwolle	4 x LEINENFADEN	---	---	---	4
+Pilot Coveralls (CSAT)	5 x Leinenstoff	3 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	4
+Heli Pilot Coveralls (NATO)	5 x Leinenstoff	3 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	4
+Kampftarnanzug (MTP)	7 x Leinenstoff	3 x gesponnene Baumwolle	7 x LEINENFADEN	---	---	---	4
+Guerilla Uniform	7 x Leinenstoff	4 x gesponnene Baumwolle	7 x LEINENFADEN	---	---	---	4
+Kampftarnanzug (AAF)	7 x Leinenstoff	4 x gesponnene Baumwolle	7 x LEINENFADEN	---	---	---	4
+Kampftarnanzug (Stavrou)	7 x Leinenstoff	4 x gesponnene Baumwolle	7 x LEINENFADEN	---	---	---	4
+CTRG-Tarn-Uniform (T-Shirt)	6 x Leinenstoffballen	6 x Baumwollballen	4 x LEINENFADEN	---	---	---	5
+CTRG-Stadt-Uniform	6 x Leinenstoffballen	7 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	5
+Gendarmerie-Kommandanten	8 x Leinenstoffballen	8 x gesponnene Baumwolle	9 x LEINENFADEN	---	---	---	5
+Ghillie-Anzug (Tropen)[NATO]	7 x Leinenstoffballen	6 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	5
+Kampfanzug (tropisch, T-Shirt)	7 x Leinenstoffballen	6 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	5
+Kampfanzug (tropisch)	7 x Leinenstoffballen	6 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	5
+Pionieranzug (tropisch)	7 x Leinenstoffballen	6 x gesponnene Baumwolle	5 x LEINENFADEN	---	---	---	5
+CTRG-Tarn-Uniform (Hochgekrempelt)	8 x Leinenstoffballen	5 x Baumwollballen	5 x LEINENFADEN	---	---	---	6
+Taucheranzug (schwarz)	2 x Leinenstoffballen	1 x Baumwollballen	3 x Plastikgranulat	---	1 x LEINENFADEN	---	6
+CTRG-Tarn-Uniform	2 x Leinenstoffballen	3 x Baumwollballen	1 x [selten] Faerbemittel	2 x LEINENFADEN	---	---	7
+Spezialanzug (Sechsecke)	10 x Leinenstoffballen	5 x Baumwollballen	1 x [selten] Faerbemittel	7 x LEINENFADEN	---	---	7
+Spezialanzug (gruene Sechsecke)	10 x Leinenstoffballen	5 x Baumwollballen	1 x [selten] Faerbemittel	7 x LEINENFADEN	---	---	7
+Ghillie Anzug (AAF)	2 x Leinenstoffballen	2 x Baumwollballen	1 x [selten] Faerbemittel	10 x Flachs	1 x [episch] Seide	2 x SEIDENFADEN	8
+Ghillie Anzug (CSAT)	2 x Leinenstoffballen	2 x Baumwollballen	1 x [selten] Faerbemittel	10 x Flachs	1 x [episch] Seide	2 x SEIDENFADEN	8
+Kompletter Ghillie (Urwald) (NATO)	31 x Leinenstoffballen	25 x Baumwollballen	4 x [episch] Seide	5 x [selten] Faerbemittel	30 x Flachs	20 x SEIDENFADEN	9
+Slash Patronengruetel (Coyote)	10 x Flachs	8 x Baumwolle	5 x LEINENFADEN	---	---	---	1
+Slash Patronenguertel (Khaki)	10 x Flachs	8 x Baumwolle	5 x LEINENFADEN	---	---	---	2
+Slash Patronengruetel (gruen)	10 x Flachs	8 x Baumwolle	5 x LEINENFADEN	---	---	---	2
+Slash Patronenguertel (schwarz)	10 x Flachs	8 x Baumwolle	5 x LEINENFADEN	---	---	---	2
+Kampf Brustweste (oliv)	7 x Flachs	3 x Baumwolle	5 x LEINENFADEN	---	---	---	2
+ELBV Geschirr	5 x Leinenstoff	3 x gesponnene Baumwolle	3 x LEINENFADEN	---	---	---	4
+LBV-Harnisch (Sechsecke)	5 x Leinenstoff	3 x gesponnene Baumwolle	3 x LEINENFADEN	---	---	---	4
+LBV-Grenadier-Harnisch (Sechsecke)	5 x Leinenstoff	3 x gesponnene Baumwolle	3 x LEINENFADEN	---	---	---	4
+LBV Geschirr (grau)	5 x Leinenstoff	3 x gesponnene Baumwolle	3 x LEINENFADEN	---	---	---	4
+Taktische Weste (Khaki)	7 x Leinenstoffballen	5 x gesponnene Baumwolle	1 x [episch] Seide	1 x [selten] Faerbemittel	4 x SEIDENFADEN	---	5
+Taktische Weste (oliv)	7 x Leinenstoffballen	5 x gesponnene Baumwolle	1 x [episch] Seide	1 x [selten] Faerbemittel	4 x SEIDENFADEN	---	5
+US Traeger-Aufsatz (Kerry)	5 x Leinenstoffballen	3 x gesponnene Baumwolle	1 x [selten] Faerbemittel	1 x SEIDENFADEN	1 x [episch] Carbon	---	6
+Traeger-Aufsatz (Tropen)	7 x Leinenstoffballen	4 x Baumwollballen	1 x [episch] Seide	1 x [selten] Faerbemittel	3 x SEIDENFADEN	1 x [episch] Carbon	8
+Traeger-Aufsatz (Gruen, kleine Flagge)	10 x Leinenstoffballen	8 x Baumwollballen	1 x [episch] Seide	3 x SEIDENFADEN	1 x [episch] Carbon	---	8
+Traeger-Aufsatz (Tropen)	10 x Leinenstoffballen	8 x Baumwollballen	2 x [episch] Seide	1 x [selten] Faerbemittel	12 x SEIDENFADEN	1 x [episch] Carbon	9
+Bandana Maske (Sand)	3 x Baumwolle	2 x Flachs	---	---	---	---	1
+Barett (Gendarmerie)	4 x gesponnene Baumwolle	4 x Leinenstoffballen	6 x SEIDENFADEN	---	---	---	6
+Sportkleidung (Strand)	3 x Flachs	2 x Baumwolle	---	---	---	---	2
+Kampfbrille	1 x Plastikgranulat	1 x [selten] Glasstein	---	---	---	---	2
+unauffaellige Brille	1 x Plastikgranulat	1 x [selten] Glasstein	---	---	---	---	2
+Sport Sonnenbrille (Vulkan)	1 x Plastikgranulat	1 x [selten] Glasstein	---	---	---	---	1
+Quadratische Brille	1 x Plastikgranulat	1 x [selten] Glasstein	---	---	---	---	3
+Bandana Maske (schwarz)	6 x gesponnene Baumwolle	12 x Leinenstoff	---	---	---	---	4
+Bandana Maske (oliv)	6 x gesponnene Baumwolle	12 x Leinenstoff	---	---	---	---	4
+Kampfbrille (Gruen)	5 x Plastikgranulat	4 x [selten] Glasstein	---	---	---	---	9
+Tarnkopftuch (schwarz)	5 x Leinenstoffballen	4 x Baumwollballen	1 x [selten] Faerbemittel	30 x LEINENFADEN	---	---	9
+Fernglas	12 x Plastikgranulat	1 x Eisenbarren	1 x Brennglas	---	3 x Werkstoff	---	2
+Nachtsichtgeraet (braun)	3 x Plastikgranulat	---	---	---	---	---	1
+PO7 9mm (Khaki)	5 x Plastikgranulat	2 x Eisenbarren	4 x Kupferbarren	---	---	---	2
+Zubr .45	3 x Plastikgranulat	3 x Eisenbarren	7 x Kupferbarren	---	---	---	2
+4five .45	6 x Plastikgranulat	4 x Eisenbarren	4 x Kupferbarren	---	---	---	2
+PDW2000 9mm	35 x Plastikgranulat	35 x Eisenbarren	10 x Kupferbarren	---	---	---	3
+Sting 9mm	34 x Plastikgranulat	34 x Eisenbarren	9 x Kupferbarren	---	---	---	3
+Protector 9mm	34 x Plastikgranulat	35 x Eisenbarren	11 x Kupferbarren	---	---	---	3
+Vermin SMG .45 ACP	30 x Plastikgranulat	30 x Eisenbarren	8 x Kupferbarren	---	---	---	4
+SDAR 5.56mm	35 x Plastikgranulat	55 x Eisenbarren	25 x Kupferbarren	30 x Werkstoff	---	---	4
+Mk20C 5.6mm	40 x Plastikgranulat	48 x Eisenbarren	15 x Kupferbarren	10 x Werkstoff	---	---	5
+Mk20 5.56mm	40 x Plastikgranulat	48 x Eisenbarren	15 x Kupferbarren	13 x Werkstoff	---	---	5
+AKS-74U 5.45mm	35 x Plastikgranulat	40 x Eisenbarren	20 x Kupferbarren	14 x Werkstoff	---	---	5
+SPAR-16 5.56mm (schwarz)	35 x Plastikgranulat	40 x Eisenbarren	20 x Kupferbarren	14 x Werkstoff	---	---	5
+TRG-21 EGLM 5.56mm	42 x Plastikgranulat	55 x Eisenbarren	30 x Kupferbarren	10 x Werkstoff	---	---	6
+CAR-95 5.8 mm (schwarz)	40 x Plastikgranulat	50 x Eisenbarren	30 x Kupferbarren	8 x Werkstoff	1 x [episch] seltene Erde	---	6
+CAR-95 GL 5.8mm (schwarz)	40 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	10 x Werkstoff	1 x [episch] seltene Erde	---	6
+Katiba Carbine 6.5mm	50 x Plastikgranulat	30 x Eisenbarren	10 x Kupferbarren	14 x Werkstoff	2 x [episch] seltene Erde	---	6
+CAR-95-1 5.8mm (schwarz)	50 x Plastikgranulat	30 x Eisenbarren	15 x Kupferbarren	20 x Werkstoff	2 x [episch] seltene Erde	---	7
+SPAR-16S 5.56mm (schwarz)	50 x Plastikgranulat	30 x Eisenbarren	15 x Kupferbarren	20 x Werkstoff	2 x [episch] seltene Erde	1 x [episch] Carbon	7
+LIM-85 5.56 mm	60 x Plastikgranulat	80 x Eisenbarren	15 x Kupferbarren	20 x Werkstoff	2 x [episch] seltene Erde	---	7
+Katiba 6.5mm	40 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	20 x Werkstoff	1 x [episch] seltene Erde	---	7
+Katiba GL 6.5mm	40 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	1 x [episch] seltene Erde	---	7
+MX 6.5mm (schwarz)	40 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	2 x [episch] seltene Erde	---	7
+MX 6.5mm (Khaki)	40 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	2 x [episch] seltene Erde	---	7
+MX 3GL 6.5mm (schwarz)	40 x Plastikgranulat	60 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	2 x [episch] seltene Erde	---	7
+Mx 3GL 6.5mm (Khaki)	40 x Plastikgranulat	60 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	2 x [episch] seltene Erde	---	7
+Typ 115 6.5mm (Green Hex)	50 x Plastikgranulat	55 x Eisenbarren	35 x Kupferbarren	30 x Werkstoff	2 x [episch] seltene Erde	---	7
+MXM 6.5mm (Khaki)	30 x Plastikgranulat	20 x Goldbrikett	20 x Kupferbarren	30 x Werkstoff	1 x [episch] seltene Erde	1 x [episch] Carbon	8
+CMR-76 6.5mm (Sechsecke)	30 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	30 x Werkstoff	1 x [episch] seltene Erde	1 x [episch] Carbon	8
+AKM 7.62mm	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	40 x Werkstoff	2 x [episch] seltene Erde	2 x [episch] Carbon	8
+Mk-I EMR 7.62mm (schwarz)	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	3 x [episch] seltene Erde	3 x [episch] Carbon	9
+Mk18 ABR 7.62mm (braun)	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	3 x [episch] seltene Erde	3 x [episch] Carbon	9
+Ak12 7.62mm	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	3 x [episch] Carbon	9
+AK-12 GL 7.62mm	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	3 x [episch] Carbon	9
+SPAR-17 7.62mm (schwarz)	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	3 x [episch] Carbon	9
+MX SW 6.5mm	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	3 x [episch] Carbon	9
+MX SW 6.5mm (schwarz)	40 x Plastikgranulat	25 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	3 x [episch] Carbon	9
+Cyrus 9.3mm (Hex)	40 x Plastikgranulat	30 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	5 x [episch] Carbon	10
+MAR-10 .338 (Camo)	40 x Plastikgranulat	30 x Goldbrikett	20 x Kupferbarren	50 x Werkstoff	4 x [episch] seltene Erde	5 x [episch] Carbon	10
+Schalldaempfer (.45 ACP)	6 x Plastikgranulat	2 x Eisenbarren	2 x Kupferbarren	10 x Werkstoff	---	---	2
+Schalldaempfer (9mm)	5 x Plastikgranulat	2 x Eisenbarren	2 x Kupferbarren	9 x Werkstoff	---	---	2
+Rauchgranate (orange)	10 x Plastikgranulat	4 x Eisenbarren	5 x Kupferbarren	2 x [selten] Faerbemittel	3 x Werkstoff	---	3
+MK17 Holosight	6 x Plastikgranulat	5 x Eisenbarren	3 x Kupferbarren	---	5 x Werkstoff	---	4
+ACO (rot)	6 x Plastikgranulat	5 x Eisenbarren	4 x Kupferbarren	---	5 x Werkstoff	---	4
+Mk17 Holozielfernroh (Khaki)	6 x Plastikgranulat	5 x Eisenbarren	3 x Kupferbarren	---	6 x Werkstoff	---	4
+Bipod (Tan) (CSAT)	6 x Plastikgranulat	6 x Eisenbarren	3 x Kupferbarren	4 x Werkstoff	---	---	5
+Schalldaempfer (5.56mm)	6 x Plastikgranulat	3 x Eisenbarren	2 x Kupferbarren	4 x Werkstoff	---	---	5
+ARCO (schwarz)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	1 x Brennglas	6 x Werkstoff	5
+ARCO (Sechsecke)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	1 x Brennglas	6 x Werkstoff	5
+ERCO (schwarz)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	6 x Werkstoff	5
+ERCO (Sand)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	6 x Werkstoff	5
+ARCO	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	1 x Brennglas	6 x Werkstoff	5
+RCO	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	1 x Brennglas	6 x Werkstoff	5
+MRCO	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	1 x Brennglas	6 x Werkstoff	5
+Schalldaempfer (6.5 mm)	8 x Plastikgranulat	5 x Eisenbarren	4 x Kupferbarren	8 x Werkstoff	---	---	6
+Schalldaempfer (5.8mm, Sechsecke)	8 x Plastikgranulat	5 x Eisenbarren	4 x Kupferbarren	8 x Werkstoff	---	---	6
+Schalldaempfer LMG (6.5mm, Khaki)	8 x Plastikgranulat	5 x Eisenbarren	4 x Kupferbarren	8 x Werkstoff	---	---	6
+Tarn-Schalldaempfer (6.5 mm, Khaki)	6 x Plastikgranulat	3 x Eisenbarren	2 x Kupferbarren	8 x Werkstoff	---	---	7
+MOS (Khaki)	12 x Plastikgranulat	10 x Eisenbarren	10 x Kupferbarren	1 x [episch] Platine	3 x Brennglas	1 x [episch] Carbon	7
+MOS	12 x Plastikgranulat	10 x Eisenbarren	10 x Kupferbarren	1 x [episch] Platine	3 x Brennglas	1 x [episch] Carbon	7
+DMS	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	8 x Werkstoff	7
+AMS (schwarz)	12 x Plastikgranulat	10 x Eisenbarren	10 x Kupferbarren	1 x [episch] Platine	3 x Brennglas	1 x [episch] Carbon	8
+AMS (Khaki)	12 x Plastikgranulat	10 x Eisenbarren	10 x Kupferbarren	1 x [episch] Platine	3 x Brennglas	1 x [episch] Carbon	8
+Schalldaempfer (7.62mm)	10 x Plastikgranulat	8 x Eisenbarren	10 x Kupferbarren	15 x Werkstoff	---	---	8
+Schalldaempfer (7.62mm, Khaki)	10 x Plastikgranulat	8 x Eisenbarren	10 x Kupferbarren	15 x Werkstoff	---	---	8
+Schalldaempfer (7.62mm, Sand)	10 x Plastikgranulat	8 x Eisenbarren	10 x Kupferbarren	15 x Werkstoff	---	---	8
+LRPS	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	10 x Werkstoff	9
+LRPS (Sechsecke)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	10 x Werkstoff	9
+LRPS (Tropen)	12 x Plastikgranulat	6 x Eisenbarren	6 x Kupferbarren	1 x [episch] Platine	2 x Brennglas	10 x Werkstoff	9
+9mm 30Rnd Magazin	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	3
+9mm 30Rnd Magazin	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	3
+.45ACP 30Rnd Vermin Mag	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	4
+5.56mm 20Rnd Dual Purpose Magazin	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	4
+5.45mm 30Rnd Leuchtspur (Gelb)	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	4
+5.45mm 30Rnd Leuchtspur (Gruen)	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	4
+5.56mm 30Rnd STANAG Magazin	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	5
+5.56mm 30Rnd STANAG Leucht (Gruen)	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	5
+5.56mm 30Rnd STANAG Leucht (Red)	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	5
+Smoke Round (Orange)	4 x Kohlebruch	3 x Eisenbarren	3 x Kupferbarren	---	---	---	5
+5.8mm 30Rnd Magazin	4 x Kohlebruch	7 x Eisenbarren	10 x Kupferbarren	---	---	---	6
+6.5mm 30Rnd Huelsenlos Magazin	4 x Kohlebruch	7 x Eisenbarren	10 x Kupferbarren	---	---	---	6
+6.5mm 30Rnd Huelsenlos Magazin Leuchtspur (Gruen)	4 x Kohlebruch	7 x Eisenbarren	10 x Kupferbarren	---	---	---	6
+6.5mm 30Rnd STANAG Magazin	4 x Kohlebruch	7 x Eisenbarren	10 x Kupferbarren	---	---	---	7
+5.8mm 100Rnd Magazin	6 x Kohlebruch	12 x Eisenbarren	15 x Kupferbarren	---	---	---	7
+5.56mm 150Rnd Magazin	6 x Kohlebruch	12 x Eisenbarren	15 x Kupferbarren	---	---	---	7
+5.56mm 200Rnd Nachlade-Leuchtspur (Gelb)	6 x Kohlebruch	12 x Eisenbarren	15 x Kupferbarren	---	---	---	7
+200Rnd 5.56mm Nachlade-Leuchtspur (Rot)	6 x Kohlebruch	12 x Eisenbarren	15 x Kupferbarren	---	---	---	7
+3Rnd 3GL Smoke Rounds (Weiß)	6 x Kohlebruch	12 x Eisenbarren	15 x Kupferbarren	---	---	---	7
+7.62mm 10Rnd Magazin	2 x Goldbrikett	10 x Eisenbarren	8 x Kupferbarren	---	---	---	8
+20Rnd 6.5mm Mag	2 x Goldbrikett	10 x Eisenbarren	8 x Kupferbarren	---	---	---	8
+7.62mm 30Rnd Leuchtspur (Gelb)	2 x Goldbrikett	10 x Eisenbarren	8 x Kupferbarren	---	---	---	9
+7.62mm 30Rnd Nachlade-Leuchtspur (Gruen)	2 x Goldbrikett	10 x Eisenbarren	8 x Kupferbarren	---	---	---	9
+7.62mm 20Rnd Magazin	2 x Goldbrikett	10 x Eisenbarren	8 x Kupferbarren	---	---	---	9
+.338 10Rnd LM Mag	6 x Goldbrikett	10 x Eisenbarren	15 x Kupferbarren	---	---	---	10
+9.3mm 10Rnd Magazin	6 x Goldbrikett	10 x Eisenbarren	15 x Kupferbarren	---	---	---	10
+Flare Fround (rot)	10 x Plastikgranulat	4 x Eisenbarren	5 x Kupferbarren	1 x [selten] Faerbemittel	10 x Werkstoff	---	2
+Bipod (schwarz) (NATO)	6 x Plastikgranulat	6 x Eisenbarren	3 x Kupferbarren	4 x Werkstoff	---	---	5
+Bipod (Khaki) (NATO)	6 x Plastikgranulat	6 x Eisenbarren	3 x Kupferbarren	4 x Werkstoff	---	---	5
+[episch] Magnet	4 x [selten] Magnetit	---	---	---	---	---	6
+[episch] Seide	1 x [selten] Seidenspinner	1 x Leinenstoff	1 x gesponnene Baumwolle	---	---	---	5
+Brennglas	1 x [selten] Glasstein	1 x Kupferbarren	---	---	---	---	4
+[episch] Platine	1 x [selten] Polymere	1 x Plastikgranulat	1 x Kupferbarren	---	---	---	3
+gesponnene Baumwolle	4 x Baumwolle	---	---	---	---	---	2
+Baumwollballen	2 x gesponnene Baumwolle	---	---	---	---	---	6
+Leinenstoff	4 x Flachs	---	---	---	---	---	1
+Leinenstoffballen	2 x Leinenstoff	---	---	---	---	---	4
+[episch] Carbon	25 x Nitroglyzerin	50 x Kohlebruch	30 x Plastikgranulat	2 x Werkstoff	---	---	8
+Entfernungsmesser	18 x Plastikgranulat	2 x Eisenbarren	1 x Kupferbarren	1 x [episch] Platine	2 x Werkstoff	---	5
+Werkzeugkasten	2 x Plastikgranulat	1 x Eisenbarren	2 x Kupferbarren	1 x Leinenstoff	1 x Werkstoff	---	1
+Fernglas	12 x Plastikgranulat	1 x Eisenbarren	1 x Brennglas	---	3 x Werkstoff	---	2
+Gruenes Knicklicht	3 x Plastikgranulat	1 x [selten] Faerbemittel	---	---	---	---	2
+Rotes Knicklicht	3 x Plastikgranulat	1 x [selten] Faerbemittel	---	---	---	---	2
+Gelbes Knicklicht	3 x Plastikgranulat	1 x [selten] Faerbemittel	---	---	---	---	2
+Blaues Knicklicht	3 x Plastikgranulat	1 x [selten] Faerbemittel	---	---	---	---	3
+Erste-Hilfe-Kasten	6 x Plastikgranulat	1 x Eisenbarren	6 x Leinenstoff	---	---	---	1
+GPS	12 x Plastikgranulat	4 x Eisenbarren	3 x Kupferbarren	1 x [episch] Platine	1 x Werkstoff	---	4

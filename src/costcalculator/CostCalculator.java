@@ -1,4 +1,5 @@
 package costcalculator;
+
 import java.io.IOException;
 
 public class CostCalculator {

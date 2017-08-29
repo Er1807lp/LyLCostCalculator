@@ -1,8 +1,10 @@
 package costcalculator;
+
 import java.awt.ScrollPane;
 import java.util.HashMap;
 
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTable;
 import javax.swing.JTextPane;
@@ -10,6 +12,10 @@ import javax.swing.ListSelectionModel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
+import javax.swing.JButton;
+import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.awt.event.ActionEvent;
 
 public class Gui extends JFrame {
 
@@ -64,8 +70,24 @@ public class Gui extends JFrame {
 		
 		textPane = new JTextPane();
 		textPane.setEditable(false);
-		textPane.setBounds(312, 11, 262, 539);
+		textPane.setBounds(312, 11, 262, 513);
 		contentPane.add(textPane);
+		
+		JButton btnNewButton = new JButton("Reset");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				if(JOptionPane.showConfirmDialog(null, "Alle Eingaben zurücksetzten?", "", JOptionPane.YES_NO_OPTION)==0){
+					try {
+						FileHandler.reset();
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+			}
+		});
+		btnNewButton.setBounds(312, 527, 262, 23);
+		contentPane.add(btnNewButton);
 		
 		
 	}

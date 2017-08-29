@@ -1,4 +1,5 @@
 package costcalculator;
+
 import java.util.HashMap;
 
 public class Finalpart implements Part{
